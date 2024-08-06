@@ -1,1 +1,1 @@
-# ME46060_EngineeringOptimisation_FFSC_Rocket_Engine
+# ME46060_Engineering_Optimisation_FFSC_Rocket_Engine
